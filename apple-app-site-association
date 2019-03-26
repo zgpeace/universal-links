@@ -5,6 +5,10 @@
 			{
 				"appID": "473VV338ZU.com.zgpeace.UniversalLinks",
 				"paths": [ "*"]
+			},
+			{
+				"appID": "NNKTAU445P.org.imohoo.shanpao",
+				"paths": [ "*" ]
 			}
 		]
 	}
