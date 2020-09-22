@@ -3,11 +3,11 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinks",
+				"appID": "NL2TZ8P5RF.com.example.daqsoft.healthpassport",
 				"paths": [ "*"]
 			},
 			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinksNew",
+				"appID": "NL2TZ8P5RF.com.example.daqsoft.businessManagement",
 				"paths": [ "*"]
 			}
 		]
