@@ -2,6 +2,23 @@
   "applinks": {
     "apps": [],
     "details": [
+    "appID": "29HA8N9RQ5.com.italkbb.tv",
+        "paths": [
+          "/app/*",
+          "/home/*",
+          "/detail/*",
+          "/live/*",
+          "/movie/*",
+          "/series/*",
+          "/variety/*",
+          "/north-america/*",
+          "/cartoon/*",
+          "/trending/*",
+          "/audio/*",
+          "/activate_email/*",
+          "NOT /news/*"
+        ]
+      },
       {
         "appID": "29HA8N9RQ5.com.italkbbtv.pad",
         "paths": [
