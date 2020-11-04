@@ -22,7 +22,7 @@
       {
         "appID": "29HA8N9RQ5.com.italkbbtv.pad",
         "paths": [
-          "/app/*",
+          "/pad/app/*",
           "/home/*",
           "/detail/*",
           "/live/*",
