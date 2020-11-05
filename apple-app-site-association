@@ -1,7 +1,7 @@
-{
+{{
   "applinks": {
     "apps": [],
-    "details": [
+    "details": [{
     "appID": "29HA8N9RQ5.com.italkbb.tv",
         "paths": [
           "*"
