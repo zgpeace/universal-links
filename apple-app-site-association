@@ -1,18 +1,47 @@
+
 {
-  "applinks": {
-    "apps": [],
-    "details": [{
-    "appID": "29HA8N9RQ5.com.italkbb.tv",
-        "paths": [
-          "*"
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "appID":"29HA8N9RQ5.com.italkbb.tv",
+                "paths":[
+                    "/app/*",
+                    "/home/*",
+                    "/detail/*",
+                    "/live/*",
+                    "/movie/*",
+                    "/series/*",
+                    "/variety/*",
+                    "/north-america/*",
+                    "/cartoon/*",
+                    "/trending/*",
+                    "/audio/*",
+                    "/activate_email/*",
+                    "NOT /news/*"
+                ]
+            },
+            {
+                "appID":"29HA8N9RQ5.com.italkbbtv.pad",
+                "paths":[
+                    "/pad/app/*",
+                    "/pad/home/*",
+                    "/pad/detail/*",
+                    "/pad/live/*",
+                    "/pad/movie/*",
+                    "/pad/series/*",
+                    "/pad/variety/*",
+                    "/pad/north-america/*",
+                    "/pad/cartoon/*",
+                    "/pad/trending/*",
+                    "/pad/audio/*",
+                    "/pad/activate_email/*",
+                    "NOT /pad/news/*"
+                ]
+            }
         ]
-      },
-      {
-        "appID": "29HA8N9RQ5.com.italkbbtv.pad",
-        "paths": [
-          "/pad/*"
-        ]
-      }
-    ]
-  }
+    }
 }
+ 
